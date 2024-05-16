@@ -8,7 +8,7 @@ Hier findest du eine Vielzahl von Präsentationen zu verschiedenen Themen, darun
 
 ## Inhaltsverzeichnis
 
-- **aiot/**
+- **[aiot](aiot/)/**
   - **Das A in IoT steht für AI.pdf**: Das A in IoT steht für AI
   - **jupyter-notebooks/**: Beispiel als jupyter notebook
 
