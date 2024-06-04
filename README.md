@@ -11,6 +11,8 @@ Hier findest du eine Vielzahl von Präsentationen zu verschiedenen Themen, darun
 - **[aiot](aiot/)/**
   - **Das A in IoT steht für AI.pdf**: Das A in IoT steht für AI
   - **jupyter-notebooks/**: Beispiel als jupyter notebook
+- **[io-link](io-link/)/**
+  - **IO-Link - Die Wundertechnologie im IIoT.pdf**: IO-Link - Die Wundertechnologie im IIoT
 
 ## Anleitung
 
